@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **alfifidia3@gmail.com**
 
-- ⚡ Fun fact **i have a lisp**
+- 🏫 I'm currently pursuing education at Universitas Negeri Padang
+
+- ⚡ Fun fact **i like ice cream**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
