@@ -13,7 +13,7 @@
 - ⚡ Fun fact **i like ice cream**
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/uJjkWSrk3J2Yk66k/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alfi.fda?igsh=YXY4Ynp1aDEyNWZm) ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Alfi Fidia) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@alfiesks?_t=8pxhtb9pLXg&_r=1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/uJjkWSrk3J2Yk66k/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alfi.fda?igsh=YXY4Ynp1aDEyNWZm) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@alfiesks?_t=8pxhtb9pLXg&_r=1) 
 
 
 # 💻 Tech Stack:
