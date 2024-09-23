@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Alfi Fidia</h1>
-<h3 align="center">A somoeno who is new to the world of programming</h3>
+<h3 align="center">A someone who is new to the world of programming</h3>
 
 - 🔭 I’m currently working on **C and Cpp**
 
